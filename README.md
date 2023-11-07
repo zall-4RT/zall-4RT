@@ -1,1 +1,1 @@
-![Alt text](https://github.com/Bayu12345677)
+<img src=”http://link-foto”>
