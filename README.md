@@ -59,3 +59,14 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 ![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+
+
+
+
+
+
+
+
+```yaml 
+* TEKS ANDA DI SINI * 
+```
