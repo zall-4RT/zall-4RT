@@ -3,7 +3,7 @@
   W E L C O M E 🟢
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+![Kartu Lelucon](https://readme-jokes.vercel.app/api)
 ---
 
 ### :woman_technologist: About Me :
@@ -56,7 +56,7 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 
-![Kartu Lelucon](https://readme-jokes.vercel.app/api)
+
 
 
 ![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
