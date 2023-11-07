@@ -68,5 +68,5 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 ```yaml 
-* TEKS ANDA DI SINI * 
+* R I Z A L * 
 ```
