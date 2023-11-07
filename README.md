@@ -55,4 +55,7 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-![Piala GitHub](https://github-profile-trophy.vercel.app/?username=codemaker2015&theme=discord
+
+
+
+![Grafik Aktivitas Github](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode
