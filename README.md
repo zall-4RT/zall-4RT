@@ -97,3 +97,21 @@ dengan:
           build_dir: dist 
         env: 
           GITHUB_TOKEN: ${{ rahasia .GITHUB_TOKEN }}
+
+
+
+
+
+i class="fa fa-github" style="font-size:24px"></i>
+<i class="fa fa-github" style="font-size:36px"></i>
+<i class="fa fa-github" style="font-size:48px;color:red"></i>
+<br>
+
+<p>Used on a button:</p>
+<button style="font-size:24px">Button <i class="fa fa-github"></i></button>
+
+<p>Unicode:</p>
+<i style="font-size:24px" class="fa">&#xf09b;</i>
+
+</body>
+</html> 
