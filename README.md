@@ -56,6 +56,4 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 
-
-
-![Grafik Aktivitas Github](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode
+![Kartu Lelucon](https://readme-jokes.vercel.app/api)
