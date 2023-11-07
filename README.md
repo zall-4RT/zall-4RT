@@ -27,7 +27,8 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :fire: My Stats :ht
+### :fire: My Stats :
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username= your_github_username &show_icons=true&theme= theme_name )
 
 
 
