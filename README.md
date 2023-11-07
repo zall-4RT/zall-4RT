@@ -2,8 +2,7 @@
 <h1>
   W E L C O M E 🟢
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-![Kartu Lelucon](https://readme-jokes.vercel.app/api)
+
 ---
 
 ### :woman_technologist: About Me :
