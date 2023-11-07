@@ -59,5 +59,4 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ![Kartu Lelucon](https://readme-jokes.vercel.app/api)
 
 
-
-![Grafik Aktivitas Github](https://activity-graph.herokuapp.com/graph?zall-4RT&theme=xcode
+![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
