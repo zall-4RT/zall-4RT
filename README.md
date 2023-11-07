@@ -70,3 +70,30 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ```yaml 
 * R I Z A L * 
 ```
+
+
+
+
+
+nama: Hasilkan Data 
+pada: 
+  jadwal: # jalankan setiap 12 jam 
+    - cron: "* */12 * * *" 
+  alur kerja_dispatch: 
+pekerjaan: 
+  build: 
+    nama: Pekerjaan untuk memperbarui data 
+    yang sedang berjalan: ubuntu- 
+    langkah terbaru: 
+      # Animasi Ular 
+      - kegunaan: Platane/snk@master 
+        id: ular-gif
+dengan: 
+          github_user_name: thepiyushmalhotra 
+          svg_out_path: dist/github-contribution-grid-snake.svg 
+      - menggunakan: crazy-max/ghaction-github-pages@v2.1.3 
+        dengan: 
+          target_branch: output 
+          build_dir: dist 
+        env: 
+          GITHUB_TOKEN: ${{ rahasia .GITHUB_TOKEN }}
