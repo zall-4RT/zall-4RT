@@ -28,7 +28,7 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=codemaker2015&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=https://github.com/zall-4RT&show_icons=true&theme=radical)
 
 
 
