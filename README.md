@@ -75,4 +75,4 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-Rizal)
