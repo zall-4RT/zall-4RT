@@ -68,10 +68,10 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 ```yaml 
-* R I Z A L * 
++62 882-1018-0505
 ```
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zall-4RT&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
