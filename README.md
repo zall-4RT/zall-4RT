@@ -1,6 +1,9 @@
 
 <h1>
   W E L C O M E 🟢
+
+![Alt text](https://telegra.ph/file/5ea5f58e0495bfbc22891.jpg)
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ---
