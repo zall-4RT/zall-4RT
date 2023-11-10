@@ -16,7 +16,7 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - :zap: TANGERANG 
 
- "https://instagram.com/zal_x_u"
+ https://instagram.com/zal_x_u
 
           
 
@@ -83,5 +83,5 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### :fire: My AlL PYMENT :
+### :fire: My ALL PYMENT :
 ![Alt text](https://telegra.ph/file/530d107e43aad607e1807.jpg)
