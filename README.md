@@ -17,8 +17,8 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: TANGERANG 
 
  https://instagram.com/zal_x_u
- ██████████████████████████████████
-![Alt text](https://telegra.ph/file/1ca74cc790c463d2bbcf4.jpg)     ██████████████████████████████████
+ ████████████████████████████████████
+![Alt text](https://telegra.ph/file/1ca74cc790c463d2bbcf4.jpg)     ████████████████████████████████████
 
 
 
