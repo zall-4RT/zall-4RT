@@ -105,6 +105,5 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-- **Bold**
-- _italics_
-- ~~Strike through~~
+![alt text][id]
+[id]: /path/to/img.jpg "Title"
