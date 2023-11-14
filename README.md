@@ -68,7 +68,12 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 
-
+- JavaScript
+- Node
+- NPM
+- Webpack
+- HTML
+- CSS
 
 
 ![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
@@ -105,5 +110,4 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-![alt text][id]
-[id]: /path/to/img.jpg "Title"
+
