@@ -92,5 +92,5 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-https://github-profile-trophy.vercel.app/?username=https:zall-4RT&rank=S
+https://github-profile-trophy.vercel.app/?username=zall-4RT&rank=S
 
