@@ -180,5 +180,14 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
+
+
+<li>
+    <a href="https://google.com" class="no-scroll">Google</a>
+</li>
+
+
+
+
 ---
 <p align="center"> © 2021 Creative Tim, all rights reserved. Made with zall
