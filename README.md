@@ -85,3 +85,12 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My ALL PYMENT :
 ![Alt text](https://telegra.ph/file/530d107e43aad607e1807.jpg)
+
+
+
+
+
+
+
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1
