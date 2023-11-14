@@ -155,3 +155,11 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 | Company 3 | Period of work (mm/yyyy - mm/yyyy) |
 |:---------:|:----------------------------------:|
 | Position 3 | Description about position 3 |
+
+
+
+---
+<p align="center"> © 2021 Creative Tim, all rights reserved. Made with zall. </p>
+<p align="center">
+https://www.creative-tim.com
+</p>
