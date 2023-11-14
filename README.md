@@ -116,3 +116,5 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
 
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR-SPOTIFY-UID&cover_image=true&theme=default)
