@@ -89,10 +89,6 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-
-<p align="center">	<!-- (optional) center align -->
-    <img src="/path/to/svg" width="XXXpx">
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
