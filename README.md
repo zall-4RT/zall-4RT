@@ -16,7 +16,13 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - :zap: TANGERANG 
 
- https://instagram.com/zal_x_u
+ 
+**zal**
+
+- [Profile](https://github.com/zall-4RT)
+- [Email](rtzy436@gmail.com?subject=Hi% "Hi!")
+- [Instagram](https://instagram.com/zal_x_u)
+  
  
 ![Alt text](https://telegra.ph/file/1ca74cc790c463d2bbcf4.jpg)   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=follow+my+Instagram+saya;+-zall+on+Instagram)](https://git.io/typing-svg)
@@ -96,9 +102,3 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=scan+QR+untuk+donate;Second+zell+developer+github)](https://git.io/typing-svg)
 
-
-**zal**
-
-- [Profile](https://github.com/zall-4RT)
-- [Email](rtzy436@gmail.com?subject=Hi% "Hi!")
-- [Instagram](https://instagram.com/zal_x_u)
