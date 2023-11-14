@@ -90,7 +90,9 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-https://pagespeed-insights.herokuapp.com?url=your_website_url&strategy=mobile
+<p align="center">	<!-- (optional) center align -->
+    <img src="/path/to/svg" width="XXXpx">
+</p>
 
 
 
