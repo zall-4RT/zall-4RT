@@ -19,7 +19,7 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
  https://instagram.com/zal_x_u
  
 ![Alt text](https://telegra.ph/file/1ca74cc790c463d2bbcf4.jpg)   
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=follow+my+Instagram+saya;+-zall+on+Instagram)](https://git.io/typing-svg)
 
 
 <div id="header" align="center">
