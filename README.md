@@ -162,4 +162,4 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <p align="center"> © 2021 Creative Tim, all rights reserved. Made with zall. </p>
 <p align="center">
 - [Instagram](https://instagram.com/zal_x_u)
-</p>
+
