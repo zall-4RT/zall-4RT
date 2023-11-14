@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=halo+selamat+datang+;++of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=halo+selamat+datang+;+©+developer+rizall)](https://git.io/typing-svg)
 <h1>
               W E L C O M E 🟢
 
