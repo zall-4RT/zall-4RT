@@ -100,5 +100,5 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 **Rohit Jain**
 
 - [Profile](https://github.com/zall-4RT)
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Email](rtzy436@gmail.com?subject=Hi% "Hi!")
+- [Instagram](https://instagram.com/zal_x_u)
