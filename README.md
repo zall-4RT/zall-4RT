@@ -149,7 +149,7 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 | Company 1 | Period of work (mm/yyyy - mm/yyyy) |
 |:---------:|:----------------------------------:|
-| Position 1 | Description about position 1 |
+| nama  | RIZAL |
 
 | Company 2 | Period of work (mm/yyyy - mm/yyyy) |
 |:---------:|:----------------------------------:|
