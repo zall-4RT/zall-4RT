@@ -34,6 +34,11 @@
 ![Alt text](https://telegra.ph/file/5fcf207bdc73836cde771.jpg)
 ---
 
+[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+...
+
 ### :woman_technologist: About Me :
 I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope:My name is m. Syifa Rizal
