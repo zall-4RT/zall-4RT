@@ -152,13 +152,13 @@ I am R I Z A L Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-| Company 1 | Period of work (mm/yyyy - mm/yyyy) |
+| my name | Period of work (mm/yyyy - mm/yyyy) |
 |:---------:|:----------------------------------:|
 | nama  | RIZAL |
 
-| Company 2 | Period of work (mm/yyyy - mm/yyyy) |
+| my classs | SMK TUNAS PAKHUAJI  |
 |:---------:|:----------------------------------:|
-| Position 2 | Description about position 2 |
+| classs | 11  otkp 3 |
 
 | Company 3 | Period of work (mm/yyyy - mm/yyyy) |
 |:---------:|:----------------------------------:|
